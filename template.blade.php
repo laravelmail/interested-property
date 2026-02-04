@@ -1,0 +1,994 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
+<head>
+<!--[if gte mso 9]>
+<xml>
+  <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+  </o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta name="x-apple-disable-message-reformatting"/>
+<!--[if !mso]><!--><meta content="IE=edge" http-equiv="X-UA-Compatible"/><!--<![endif]-->
+<title></title>
+<style type="text/css">
+      
+      @media only screen and (min-width: 620px) {
+        .u-row {
+          width: 600px !important;
+        }
+
+        .u-row .u-col {
+          vertical-align: top;
+        }
+
+        
+            .u-row .u-col-8p5 {
+              width: 51px !important;
+            }
+          
+
+            .u-row .u-col-33p33 {
+              width: 199.98px !important;
+            }
+          
+
+            .u-row .u-col-50 {
+              width: 300px !important;
+            }
+          
+
+            .u-row .u-col-58p17 {
+              width: 349.02px !important;
+            }
+          
+
+            .u-row .u-col-100 {
+              width: 600px !important;
+            }
+          
+      }
+
+      @media only screen and (max-width: 620px) {
+        .u-row-container {
+          max-width: 100% !important;
+          padding-left: 0px !important;
+          padding-right: 0px !important;
+        }
+
+        .u-row {
+          width: 100% !important;
+        }
+
+        .u-row .u-col {
+          display: block !important;
+          width: 100% !important;
+          min-width: 320px !important;
+          max-width: 100% !important;
+        }
+
+        .u-row .u-col > div {
+          margin: 0 auto;
+        }
+
+
+        .u-row .u-col img {
+          max-width: 100% !important;
+        }
+
+}
+    
+body {
+  margin: 0;
+  padding: 0;
+}
+
+table,
+tr,
+td {
+  vertical-align: top;
+  border-collapse: collapse;
+}
+
+p {
+  margin: 0;
+}
+
+.ie-container table,
+.mso-container table {
+  table-layout: fixed;
+}
+
+* {
+  line-height: inherit;
+}
+
+a[x-apple-data-detectors='true'] {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+
+
+table, td { color: #000000; } #u_body a { color: #0000ee; text-decoration: underline; } @media (max-width: 480px) { #u_content_image_10 .v-container-padding-padding { padding: 13px 13px 6px !important; } #u_content_image_10 .v-src-width { width: auto !important; } #u_content_image_10 .v-src-max-width { max-width: 10% !important; } #u_content_image_10 .v-text-align { text-align: center !important; } #u_content_heading_11 .v-container-padding-padding { padding: 0px 0px 10px !important; } #u_content_heading_11 .v-text-align { text-align: center !important; } #u_content_button_13 .v-padding { padding: 0px 5px 10px 20px !important; } #u_content_heading_1 .v-font-size { font-size: 21px !important; } #u_content_text_2 .v-container-padding-padding { padding: 10px 10px 17px !important; } #u_content_text_4 .v-container-padding-padding { padding: 2px 10px 20px !important; } #u_content_heading_6 .v-container-padding-padding { padding: 0px 10px 10px !important; } #u_content_heading_6 .v-font-size { font-size: 23px !important; } #u_content_text_7 .v-container-padding-padding { padding: 10px 10px 20px !important; } #u_content_text_8 .v-container-padding-padding { padding: 10px 10px 16px !important; } #u_row_10.v-row-padding--vertical { padding-top: 1px !important; padding-bottom: 0px !important; } #u_content_heading_9 .v-container-padding-padding { padding: 20px 10px 6px 15px !important; } #u_content_heading_10 .v-container-padding-padding { padding: 20px 10px 10px 15px !important; } #u_content_button_10 .v-padding { padding: 12px 20px !important; } #u_content_button_10 .v-container-padding-padding { padding: 10px 10px 20px !important; } #u_content_divider_5 .v-container-padding-padding { padding: 0px !important; } #u_content_text_14 .v-text-align { text-align: center !important; } #u_content_text_15 .v-text-align { text-align: center !important; } #u_content_image_11 .v-src-width { width: auto !important; } #u_content_image_11 .v-src-max-width { max-width: 11% !important; } #u_content_image_11 .v-text-align { text-align: center !important; } #u_content_heading_12 .v-container-padding-padding { padding: 2px 10px 10px !important; } #u_content_heading_12 .v-text-align { text-align: center !important; } #u_content_button_14 .v-text-align { text-align: center !important; } #u_content_button_14 .v-padding { padding: 10px 0px !important; } #u_content_button_14 .v-container-padding-padding { padding: 0px 0px 10px !important; } #u_content_text_16 .v-text-align { text-align: center !important; } }
+    </style>
+<!--[if !mso]><!--><link href="{{ asset('vendor/mail-templates/interested-property/assets/asset_d904cd21.css') }}" rel="stylesheet" type="text/css"/><link href="{{ asset('vendor/mail-templates/interested-property/assets/asset_af0ad356.css') }}" rel="stylesheet" type="text/css"/><link href="{{ asset('vendor/mail-templates/interested-property/assets/asset_31366314.css') }}" rel="stylesheet" type="text/css"/><link href="{{ asset('vendor/mail-templates/interested-property/assets/asset_a246800e.css') }}" rel="stylesheet" type="text/css"/><link href="{{ asset('vendor/mail-templates/interested-property/assets/asset_d904cd21.css') }}" rel="stylesheet" type="text/css"/><!--<![endif]-->
+</head>
+<body class="clean-body u_body" style="margin: 0;padding: 0;-webkit-text-size-adjust: 100%;background-color: #ebf1f0;color: #000000">
+<!--[if IE]><div class="ie-container"><![endif]-->
+<!--[if mso]><div class="mso-container"><![endif]-->
+<table cellpadding="0" cellspacing="0" id="u_body" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;min-width: 320px;Margin: 0 auto;background-color: #ebf1f0;width:100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" style="background-color: #ebf1f0;"><![endif]-->
+<div class="u-row-container v-row-padding--vertical" style="padding: 0px;background-color: #2c3941">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #2c3941;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: #2c3941;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #2c3941;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="51" style="width: 51px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-8p5" style="max-width: 320px;min-width: 51px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_image_10" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:13px 10px 10px;font-family:arial,helvetica,sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="right" alt="Logo" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/interested-property/assets/1619110722192-aaa.jpg') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 87%;max-width: 26.97px;" title="Logo" width="26.97"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="349" style="width: 349px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-58p17" style="max-width: 320px;min-width: 349.02px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_heading_11" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:16px 10px 10px 0px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><table width="100%"><tr><td><![endif]-->
+<h2 class="v-text-align v-font-size" style="margin: 0px; color: #ffffff; line-height: 140%; text-align: left; word-wrap: break-word; font-family: 'Lobster Two',cursive; font-size: 17px; font-weight: 400;"><strong>Real Estate</strong></h2>
+<!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="199" style="width: 199px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-33p33" style="max-width: 320px;min-width: 199.98px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_button_13" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="right" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{{ asset('vendor/mail-templates/interested-property/assets/asset_2f8c5a96.bin/') }}" style="height:37px; v-text-anchor:middle; width:180px;" arcsize="0%"  stroke="f" fillcolor="#2c3941"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
+<a class="v-button v-font-size" href="{{ asset('vendor/mail-templates/interested-property/assets/asset_7ba4ac47.bin') }}" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #2c3941; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:100%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span class="v-padding" style="display:block;padding:10px 5px 10px 20px;line-height:120%;">VIEW ALL <span style="font-size: 12px; line-height: 14.4px;">LISTINGS</span></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container v-row-padding--vertical" style="padding: 15px 0px 17px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 15px 0px 17px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: transparent;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_heading_1" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><table width="100%"><tr><td><![endif]-->
+<h2 class="v-text-align v-font-size" style="margin: 0px; color: #323b42; line-height: 140%; text-align: center; word-wrap: break-word; font-family: 'Lato',sans-serif; font-size: 29px; font-weight: 400;"><strong>You've recently shown interest in these properties in San Francisco</strong></h2>
+<!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container v-row-padding--vertical" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #ffffff;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #ffffff;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="300" style="width: 300px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-50" style="max-width: 320px;min-width: 300px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:13px;font-family:arial,helvetica,sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="House 1" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/interested-property/assets/asset_bf12dfc0.bin') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 274px;" title="House 1" width="274"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="300" style="width: 300px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-50" style="max-width: 320px;min-width: 300px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:18px 10px 4px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><table width="100%"><tr><td><![endif]-->
+<h3 class="v-text-align v-font-size" style="margin: 0px; color: #323b42; line-height: 140%; text-align: left; word-wrap: break-word; font-family: arial,helvetica,sans-serif; font-size: 18px; font-weight: 400;"><strong>$475,000</strong></h3>
+<!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:1px 10px 10px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><table width="100%"><tr><td><![endif]-->
+<h3 class="v-text-align v-font-size" style="margin: 0px; color: #323b42; line-height: 140%; text-align: left; word-wrap: break-word; font-family: arial,helvetica,sans-serif; font-size: 16px; font-weight: 400;">New Address, San Francisco</h3>
+<!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 10px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align v-font-size" style="font-size: 14px; color: #323b42; line-height: 140%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;">We are excited to present a unique opportunity in the Real Estate sector. Our team has an attractive property up for sale that we believe could meet your investment goals.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 1px solid #eceaea;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_text_2" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align v-font-size" style="font-size: 14px; color: #323b42; line-height: 140%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;">5 Bedrooms, 2 Bathrooms, 1080 sq. f.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container v-row-padding--vertical" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: transparent;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:14px 10px 10px;font-family:arial,helvetica,sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 0px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container v-row-padding--vertical" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #ffffff;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #ffffff;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="300" style="width: 300px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-50" style="max-width: 320px;min-width: 300px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:13px;font-family:arial,helvetica,sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="House 2" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/interested-property/assets/1619178171255-home.jpg') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 274px;" title="House 2" width="274"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="300" style="width: 300px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-50" style="max-width: 320px;min-width: 300px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:18px 10px 4px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><table width="100%"><tr><td><![endif]-->
+<h3 class="v-text-align v-font-size" style="margin: 0px; color: #323b42; line-height: 140%; text-align: left; word-wrap: break-word; font-family: arial,helvetica,sans-serif; font-size: 18px; font-weight: 400;"><strong>$525,000</strong></h3>
+<!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:1px 10px 10px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><table width="100%"><tr><td><![endif]-->
+<h3 class="v-text-align v-font-size" style="margin: 0px; color: #323b42; line-height: 140%; text-align: left; word-wrap: break-word; font-family: arial,helvetica,sans-serif; font-size: 16px; font-weight: 400;">Road Side, San Francisco</h3>
+<!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 6px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align v-font-size" style="font-size: 14px; color: #323b42; line-height: 140%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;">We are writing to express our interest in a specific property you may have listed. Please provide us with further details.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 1px solid #eceaea;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_text_4" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:2px 10px 0px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align v-font-size" style="font-size: 14px; color: #323b42; line-height: 140%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;">4 Bedrooms, 2 Bathrooms, 1050 sq. f.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container v-row-padding--vertical" style="padding: 30px 0px 20px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 30px 0px 20px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: transparent;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_heading_6" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><table width="100%"><tr><td><![endif]-->
+<h3 class="v-text-align v-font-size" style="margin: 0px; color: #323b42; line-height: 140%; text-align: center; word-wrap: break-word; font-family: 'Source Sans Pro',sans-serif; font-size: 24px; font-weight: 400;"><strong>Schedule a visit with one of our agent</strong></h3>
+<!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container v-row-padding--vertical" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #ffffff;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #ffffff;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="300" style="width: 300px;padding: 7px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-50" style="max-width: 320px;min-width: 300px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 7px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="Agent 1" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/interested-property/assets/1619100342402-12.jpg') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 280px;" title="Agent 1" width="280"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 10px 16px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="left" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="" style="height:37px; v-text-anchor:middle; width:144px;" arcsize="0%"  stroke="f" fillcolor="#e5f5ef"><w:anchorlock/><center style="color:#26a680;"><![endif]-->
+<a class="v-button v-font-size" href="" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #26a680; background-color: #e5f5ef; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:auto; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span class="v-padding" style="display:block;padding:10px 15px;line-height:120%;"><strong><span style="font-size: 14px; line-height: 16.8px;">TOP RATED 4.9/5</span></strong></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 6px 15px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><table width="100%"><tr><td><![endif]-->
+<h1 class="v-text-align v-font-size" style="margin: 0px; color: #323b42; line-height: 140%; text-align: left; word-wrap: break-word; font-family: 'Cabin',sans-serif; font-size: 19px; font-weight: 400;"><strong>Radlof Hamm</strong></h1>
+<!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 10px 15px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align v-font-size" style="font-size: 14px; color: #323b42; line-height: 140%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;"><span style="font-family: Cabin, sans-serif; font-size: 14px; line-height: 19.6px;"><strong>Real Estate Agent</strong></span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_text_7" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align v-font-size" style="font-size: 14px; color: #323b42; line-height: 160%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 160%;">Your real estate opportunity awaits! We specialize in providing you with ideal properties.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="300" style="width: 300px;padding: 7px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-50" style="max-width: 320px;min-width: 300px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 7px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="Agent 2" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/interested-property/assets/1619100349636-13.jpg') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 280px;" title="Agent 2" width="280"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 10px 16px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="left" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="" style="height:36px; v-text-anchor:middle; width:144px;" arcsize="0%"  stroke="f" fillcolor="#e5f5ef"><w:anchorlock/><center style="color:#26a680;"><![endif]-->
+<a class="v-button v-font-size" href="" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #26a680; background-color: #e5f5ef; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:auto; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span class="v-padding" style="display:block;padding:10px 15px;line-height:120%;"><strong><span style="font-size: 14px; line-height: 16.8px;">TOP RATED 4.8/5</span></strong></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 10px 15px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><table width="100%"><tr><td><![endif]-->
+<h1 class="v-text-align v-font-size" style="margin: 0px; color: #323b42; line-height: 140%; text-align: left; word-wrap: break-word; font-family: 'Cabin',sans-serif; font-size: 19px; font-weight: 400;"><strong>Emanuel Macco</strong></h1>
+<!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 10px 15px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align v-font-size" style="font-size: 14px; color: #323b42; line-height: 140%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;"><span style="font-family: Cabin, sans-serif; font-size: 14px; line-height: 19.6px;"><strong>Real Estate Agent</strong></span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_text_8" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align v-font-size" style="font-size: 14px; color: #323b42; line-height: 160%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 160%;">We are reaching out regarding an expressed interest in Real Estate properties. Our team specializes in connecting buyers with their ideal homes or investments.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container v-row-padding--vertical" style="padding: 18px 0px 35px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 18px 0px 35px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: transparent;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="center" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{{ asset('vendor/mail-templates/interested-property/assets/asset_2f8c5a96.bin/') }}" style="height:47px; v-text-anchor:middle; width:133px;" arcsize="6.5%"  stroke="f" fillcolor="#e65d05"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
+<a class="v-button v-font-size" href="{{ asset('vendor/mail-templates/interested-property/assets/asset_7ba4ac47.bin') }}" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #e65d05; border-radius: 3px;-webkit-border-radius: 3px; -moz-border-radius: 3px; width:auto; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span class="v-padding" style="display:block;padding:15px 30px;line-height:120%;"><span style="font-size: 14px; line-height: 16.8px;">Select Date</span></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container v-row-padding--vertical" id="u_row_10" style="padding: 35px 0px 0px;background-color: #ffffff">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #ebf1f0;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 35px 0px 0px;background-color: #ffffff;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #ebf1f0;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="300" style="width: 300px;padding: 7px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-50" style="max-width: 320px;min-width: 300px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 7px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_heading_9" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 6px 15px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><table width="100%"><tr><td><![endif]-->
+<h1 class="v-text-align v-font-size" style="margin: 0px; color: #323b42; line-height: 140%; text-align: left; word-wrap: break-word; font-family: 'Cabin',sans-serif; font-size: 19px; font-weight: 400;"><strong>Discover your next <br/>dream home</strong></h1>
+<!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align v-font-size" style="font-size: 14px; color: #323b42; line-height: 160%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 160%;">We are pleased to inform you that we have identified a property matching your search criteria.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="left" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{{ asset('vendor/mail-templates/interested-property/assets/asset_2f8c5a96.bin/') }}" style="height:41px; v-text-anchor:middle; width:143px;" arcsize="5%"  stroke="f" fillcolor="#e65d05"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
+<a class="v-button v-font-size" href="{{ asset('vendor/mail-templates/interested-property/assets/asset_7ba4ac47.bin') }}" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #e65d05; border-radius: 2px;-webkit-border-radius: 2px; -moz-border-radius: 2px; width:auto; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span class="v-padding" style="display:block;padding:12px 20px;line-height:120%;"><span style="font-size: 14px; line-height: 16.8px;">Get Started Now</span></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="300" style="width: 300px;padding: 7px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-50" style="max-width: 320px;min-width: 300px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 7px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_heading_10" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 10px 15px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><table width="100%"><tr><td><![endif]-->
+<h1 class="v-text-align v-font-size" style="margin: 0px; color: #323b42; line-height: 140%; text-align: left; word-wrap: break-word; font-family: 'Cabin',sans-serif; font-size: 19px; font-weight: 400;"><strong>How much is your <br/>house worth?</strong></h1>
+<!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align v-font-size" style="font-size: 14px; color: #323b42; line-height: 160%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 160%;">Dear [Recipient Name], We are writing to inform you about a property that matches your recent inquiry.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_button_10" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="left" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{{ asset('vendor/mail-templates/interested-property/assets/asset_2f8c5a96.bin/') }}" style="height:41px; v-text-anchor:middle; width:137px;" arcsize="5%"  stroke="f" fillcolor="#e65d05"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
+<a class="v-button v-font-size" href="{{ asset('vendor/mail-templates/interested-property/assets/asset_7ba4ac47.bin') }}" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #e65d05; border-radius: 2px;-webkit-border-radius: 2px; -moz-border-radius: 2px; width:auto; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span class="v-padding" style="display:block;padding:12px 20px;line-height:120%;"><span style="font-size: 14px; line-height: 16.8px;">Get Quoto Now</span></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container v-row-padding--vertical" style="padding: 0px;background-color: #ffffff">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #ffffff;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: #ffffff;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #ffffff;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_divider_5" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:15px 10px 20px;font-family:arial,helvetica,sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 0px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container v-row-padding--vertical" style="padding: 8px 0px;background-color: #2b3a41">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #2b3a41;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 8px 0px;background-color: #2b3a41;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #2b3a41;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="300" style="width: 300px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-50" style="max-width: 320px;min-width: 300px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_text_14" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align v-font-size" style="font-size: 14px; color: #6a777c; line-height: 140%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;">+123-456-789</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="300" style="width: 300px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-50" style="max-width: 320px;min-width: 300px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_text_15" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 21px 10px 10px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align v-font-size" style="font-size: 14px; color: #6a777c; line-height: 140%; text-align: right; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;">contact@realestate.com</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container v-row-padding--vertical" style="padding: 8px 0px 0px;background-color: #263339">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #263339;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 8px 0px 0px;background-color: #263339;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #263339;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="51" style="width: 51px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-8p5" style="max-width: 320px;min-width: 51px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_image_11" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:13px 10px 10px;font-family:arial,helvetica,sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="right" alt="Logo" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/interested-property/assets/1619110722192-aaa.jpg') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 87%;max-width: 26.97px;" title="Logo" width="26.97"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="349" style="width: 349px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-58p17" style="max-width: 320px;min-width: 349.02px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_heading_12" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:17px 10px 10px 0px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><table width="100%"><tr><td><![endif]-->
+<h2 class="v-text-align v-font-size" style="margin: 0px; color: #ffffff; line-height: 140%; text-align: left; word-wrap: break-word; font-family: 'Lobster Two',cursive; font-size: 17px; font-weight: 400;"><strong>Real Estate</strong></h2>
+<!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="199" style="width: 199px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-33p33" style="max-width: 320px;min-width: 199.98px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_button_14" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 0px 10px 10px;font-family:arial,helvetica,sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="right" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{{ asset('vendor/mail-templates/interested-property/assets/asset_2f8c5a96.bin/') }}" style="height:37px; v-text-anchor:middle; width:190px;" arcsize="0%"  stroke="f" fillcolor="#263339"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
+<a class="v-button v-font-size" href="{{ asset('vendor/mail-templates/interested-property/assets/asset_7ba4ac47.bin') }}" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #263339; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:100%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span class="v-padding" style="display:block;padding:10px 0px 10px 20px;line-height:120%;">VIEW ALL <span style="font-size: 12px; line-height: 14.4px;">LISTINGS</span></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container v-row-padding--vertical" style="padding: 0px;background-color: #263339">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #263339;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: #263339;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #263339;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 1px solid #3b484e;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container v-row-padding--vertical" style="padding: 0px 0px 15px;background-color: #263339">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #263339;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px 0px 15px;background-color: #263339;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #263339;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_text_16" role="presentation" style="font-family:arial,helvetica,sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;">
+<div class="v-text-align v-font-size" style="font-size: 14px; color: #838e94; line-height: 140%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;">We are reaching out regarding a potential opportunity within the Real Estate sector.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if mso]></div><![endif]-->
+<!--[if IE]></div><![endif]-->
+</body>
+</html>
